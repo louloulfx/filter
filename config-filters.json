@@ -1,0 +1,13 @@
+{
+  "steps": {
+    "1": {
+      "filter": "read.js",
+      "params": [],
+      "next": "2"
+    },
+    "2": {
+      "filter": "capitalize.js",
+      "params": []
+    }
+  }
+}
